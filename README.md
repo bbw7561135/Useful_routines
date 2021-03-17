@@ -1,2 +1,3 @@
 # Useful_routines
-Useful routines for numerical computation
+
+Useful routines and templates for numerical computation in various programming languages
